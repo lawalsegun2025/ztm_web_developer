@@ -99,14 +99,14 @@ h1 {
 	/* These properties are new and you haven't encountered
 	in this course. Check out CSS Tricks to see what it does! */
 	position: relative; 
-	top: 120px; 
+	top: 100px; 
 	left: 40px; 
 } 
 
 .right_eye { 
 	position: relative; 
-	top: 100px; 
-	left: 120px; 
+	top: 80px; 
+	left: 140px; 
 }
 
 
