@@ -37,6 +37,7 @@ h1 {
 	height: 150px;
 	display: flex; 
 	margin-left: 610px;
+	margin: 0 auto;
 } 
 
 .left_arm, .right_arm { 
@@ -56,7 +57,7 @@ h1 {
 .torso { 
 	width: 200px; 
 	height: 200px;
-	border-radius: 0 0 50px 50px; 
+	border-radius: 0 0 50px 50px;
 } 
 
 .lower_body { 
